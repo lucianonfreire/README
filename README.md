@@ -2,17 +2,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🌱 Estou estudando e procurando me aperfeiçoar em Data Science.
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 💻 Atualmente estou revisando alguns curso na área.
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ▶️ Pode ver mais sobre mim no no meu portfólio
+https://tariqassis.github.io/Meu-Portifolio/
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+- Curiosidade sobre mim : Sou professor de violino e viola, empreendedor digital e importador
 
 <!--
 
