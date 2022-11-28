@@ -9,7 +9,7 @@
 - ▶️ Pode ver mais sobre mim no no meu portfólio
 https://tariqassis.github.io/Meu-Portifolio/
 
-- Curiosidade sobre mim : Sou professor de violino e viola, empreendedor digital e importador
+- Curiosidade sobre mim : Sou professor de violino, músico de orquestra, empreendedor digital e importador
 
 <!--
 
